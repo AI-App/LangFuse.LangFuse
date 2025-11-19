@@ -70,3 +70,6 @@ web/test-results/*
 
 # local config files
 *.local.*
+
+# GitHub / Visual Studio Code
+# .github/instructions/codacy.instructions.md
